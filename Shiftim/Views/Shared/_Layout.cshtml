@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html dir="rtl">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/pages/cssStyle.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Amatica+SC:400,700&amp;subset=hebrew" rel="stylesheet">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+
+    <nav class="navbar navbar-findcond navbar-fixed-top HebFont">
+        <div class="container">
+            <div class="navbar-header navbar-right">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand logoClass" onclick="location.href='@Url.Action("Index","Home")'"><span>&ensp;Shiftim - סידור משמרות</span></a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="active navbar-right" onclick="location.href='@Url.Action("Index","Home")'"><a ><span class="glyphicon glyphicon-home"></span> בית <span class="sr-only">(current) </span></a></li>                 
+                </ul>
+                <div class="loginForm">
+                    <div >
+                        <p>
+                            <button id="btn_login" onclick="location.href='@Url.Action("LogOff","Home")'" type="button" class="btn btn-default btn-xs " style="font-size: 23px"><i class="glyphicon glyphicon-log-out"></i> &ensp; התנתק</button>
+                            <strong style="font-size: 21px">     @Session["name"] - <u>מחובר</u> </strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+
+        
+        <hr />
+        <footer>
+            <p>@DateTime.Now.Day/@DateTime.Now.Month/@DateTime.Now.Year </p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/angular")
+    @Scripts.Render("~/bundles/bootstrap")
+    <script src="~/Scripts/pupup_worker.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

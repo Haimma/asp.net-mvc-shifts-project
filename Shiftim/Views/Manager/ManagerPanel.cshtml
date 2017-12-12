@@ -1,0 +1,51 @@
+﻿@model Shiftim.Models.Worker
+
+@{
+    ViewBag.Title = "תפריט מנהל";
+}
+<!DOCTYPE html >
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+
+
+<h1 class="text-center">תפריט מנהל</h1>
+<br />
+<br />
+<div class="center-block container-fluid btn-menu">
+    <button class="btn btn-defult-outline btn-space " onclick="location.href='@Url.Action("ListOfWorker","Manager")'">
+             <img src="http://image.flaticon.com/icons/png/512/47/47352.png"  style="height:225px;width:225px;"" />
+         <div class="caption">
+             <h2>ניהול עובדים</h2>
+         </div> 
+    </button>
+    <button class="btn btn-defult-outline btn-space btn-menu" onclick="location.href='@Url.Action("ShowApproveShifts","Manager")'">
+        <img src="https://www.directbookingonline.com/dbo-hotels/dbo-plugin/booking-calendar/tools/icon-calender.png" style="height:225px;width:225px;" />
+        <div class="caption">
+            <h2>אישור משמרות</h2>
+        </div>
+    </button>
+    <button class="btn btn-defult-outline btn-space btn-menu" onclick="location.href='@Url.Action("Show_Shifts","Worker")'">
+        <img src="http://www.wildcardmedia.co.nz/img/realestate-icon-session.svg" style="height:225px;width:225px;" />
+        <div class="caption">
+            <div class="boldClass">
+                <h2>
+                    צפייה במשמרות
+                </h2>
+            </div> 
+        </div>
+    </button>
+    <button class="btn btn-defult-outline btn-space btn-menu" onclick="location.href='@Url.Action("Show_Notes","Manager")'">
+        <img src="http://vignette2.wikia.nocookie.net/epicrapbattlesofhistory/images/7/7a/3message.png" style="height:225px;width:225px;" />
+        <div class="caption">
+            <div class="boldClass">
+                <h2>
+                    בקשות עובדים
+                </h2>
+            </div>
+        </div>
+    </button>
+</div>
+
+
+

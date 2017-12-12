@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a34e22d4d8a14c3fa02f984e37613fc1" Name="Diagram1">
+        <EntityTypeShape EntityType="shiftimModel.shift" Width="1.5" PointX="4.875" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="shiftimModel.sysdiagram" Width="1.5" PointX="6.875" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="shiftimModel.user" Width="1.5" PointX="0.625" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="shiftimModel.worker" Width="1.5" PointX="2.875" PointY="0.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="shiftimModel.message" Width="1.5" PointX="8.875" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="shiftimModel.FK_workers_users" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,124 @@
+﻿@model IEnumerable<Shiftim.Models.Shifts>
+
+@{
+    ViewBag.Title = "אישור משמרות";
+}
+
+<link href="~/Content/pages/ListOfWorker.css" rel="stylesheet" />
+
+<h2>רשימת משמרות</h2>
+<div class="container-fluid">
+    <h2>בחר יום להצגה:</h2>
+    <div class="btn-group btn-group-justified">
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="א" })'" class="btn btn-success">יום א</a>
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="ב" })'" class="btn btn-success">יום ב</a>
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="ג" })'" class="btn btn-success">יום ג</a>
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="ד" })'" class="btn btn-success">יום ד</a>
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="ה" })'" class="btn btn-success">יום ה</a>
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="ו" })'" class="btn btn-success">יום ו</a>
+        <a onclick="location.href='@Url.Action("ShowApproveShifts", "Manager", new { d = ViewData["corDay"]="ש" })'" class="btn btn-success">יום ש</a>
+    </div>
+</div>
+<br />
+<div>
+    <table class="table table-striped table-hover" id="table_days">
+        <tr class="success">
+            <th>
+                <label>אימייל</label>
+            </th>
+            <th>
+                <label>תאריך</label>
+            </th>
+            <th>
+                <label>יום</label>
+            </th>
+            <th>
+                <label>משמרת</label>
+            </th>
+            <th>
+                <label>הערות</label>
+            </th>
+
+            <th>אפשרויות</th>
+        </tr>
+
+
+        @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.day)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.myShift)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.comments)
+                </td>
+                <td>
+                    <a class="btn btn-primary btn-xs" onclick="approveShift('@item.email','@item.day')"><i class="glyphicon glyphicon-edit"></i>&nbsp;אישור </a>
+
+                    <a class="btn btn-danger btn-xs" onclick="rejectShift('@item.email','@item.day')"><i class="glyphicon glyphicon-remove"></i>&nbsp;דחייה </a>
+
+                </td>
+            </tr>
+        }
+    </table>
+
+</div>
+
+<script>
+    function showDays() {
+        alert("ssass");
+
+          @TempData["corDay"]= $("#days option:selected").text();
+
+        TempData["corDay"]= $("#days option:selected").text();
+               alert(@TempData["corDay"]);
+    }
+
+    function GetDay_(){
+        return $("#days option:selected").text();
+    }
+
+
+
+
+    var approveShift = function (email,day) {
+        $.ajax({
+            type: "POST",
+            url: "/Manager/ApproveShift",
+            data: { Email: email, d:day},
+            success: function (response) {
+
+                $("#myModalBodyDivDelete").html(response);
+                $("#myModalDelete").modal("show");
+                alert('המשמרת אושרה!');
+            }
+
+        })
+    }
+    var rejectShift = function (email,day) {
+        $.ajax({
+            type: "POST",
+            url: "/Manager/RejectShift",
+            data: { Email: email, d:day},
+            success: function (response) {
+
+                $("#myModalBodyDivDelete").html(response);
+                $("#myModalDelete").modal("show");
+                alert('המשמרת נדחת!');
+            }
+
+        })
+    }
+
+</script>
+
+

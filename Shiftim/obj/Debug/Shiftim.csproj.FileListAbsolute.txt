@@ -1,0 +1,286 @@
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\ApplicationInsights.config
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\csc.exe
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\System.Collections.Immutable.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\vbc.exe
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe.config
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Shiftim.dll.config
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Shiftim.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Shiftim.pdb
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Antlr3.Runtime.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.Web.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.Web.Infrastructure.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Newtonsoft.Json.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Helpers.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Mvc.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Optimization.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Razor.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.WebPages.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\WebGrease.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.Web.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Helpers.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Mvc.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Optimization.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.Razor.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.WebPages.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Antlr3.Runtime.pdb
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\bin\Newtonsoft.Json.xml
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\obj\Debug\Shiftim.csprojResolveAssemblyReference.cache
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\obj\Debug\Shiftim.dll
+c:\users\idanlevi\documents\visual studio 2015\Projects\Shiftim\Shiftim\obj\Debug\Shiftim.pdb
+C:\Users\idanlevi\Documents\Visual Studio 2015\Projects\Shiftim\Shiftim\bin\EntityFramework.dll
+C:\Users\idanlevi\Documents\Visual Studio 2015\Projects\Shiftim\Shiftim\bin\EntityFramework.SqlServer.dll
+C:\Users\idanlevi\Documents\Visual Studio 2015\Projects\Shiftim\Shiftim\bin\EntityFramework.xml
+C:\Users\idanlevi\Documents\Visual Studio 2015\Projects\Shiftim\Shiftim\bin\EntityFramework.SqlServer.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\obj\Debug\Shiftim.csprojResolveAssemblyReference.cache
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\obj\Debug\Shiftim.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\obj\Debug\Shiftim.pdb
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\ApplicationInsights.config
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\csc.exe
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\vbc.exe
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Shiftim.dll.config
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Shiftim.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Shiftim.pdb
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Antlr3.Runtime.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\EntityFramework.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\EntityFramework.SqlServer.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.Web.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Newtonsoft.Json.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Helpers.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Mvc.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Optimization.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Razor.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.WebPages.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\WebGrease.dll
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\EntityFramework.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\EntityFramework.SqlServer.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.Web.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Helpers.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Mvc.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Optimization.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.Razor.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.WebPages.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.xml
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Antlr3.Runtime.pdb
+C:\Users\idanlevi\Dropbox\SISTERS\MVC_PROJECT\4.1\Shiftim\Shiftim\bin\Newtonsoft.Json.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\ApplicationInsights.config
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\csc.exe
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\vbc.exe
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Shiftim.dll.config
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Shiftim.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Shiftim.pdb
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Antlr3.Runtime.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\EntityFramework.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\EntityFramework.SqlServer.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.Web.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Newtonsoft.Json.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Helpers.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Mvc.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Optimization.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Razor.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.WebPages.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\WebGrease.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\EntityFramework.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\EntityFramework.SqlServer.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.Web.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Mvc.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Helpers.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Optimization.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.Razor.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.WebPages.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Antlr3.Runtime.pdb
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\bin\Newtonsoft.Json.xml
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\obj\Debug\Shiftim.dll
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\obj\Debug\Shiftim.pdb
+C:\Users\idanlevi\Desktop\Shiftim\Shiftim\obj\Debug\Shiftim.csprojResolveAssemblyReference.cache
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\ApplicationInsights.config
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\csc.exe
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\vbc.exe
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Shiftim.dll.config
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Shiftim.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Shiftim.pdb
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Antlr3.Runtime.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\EntityFramework.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\EntityFramework.SqlServer.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.Web.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Newtonsoft.Json.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Helpers.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Mvc.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Optimization.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Razor.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.WebPages.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\WebGrease.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\EntityFramework.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\EntityFramework.SqlServer.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.Web.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Mvc.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Helpers.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Optimization.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.Razor.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.WebPages.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Antlr3.Runtime.pdb
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\bin\Newtonsoft.Json.xml
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\obj\Debug\Shiftim.csprojResolveAssemblyReference.cache
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\obj\Debug\Shiftim.dll
+C:\Users\idanlevi\Desktop\13\Shiftim\Shiftim\obj\Debug\Shiftim.pdb
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\ApplicationInsights.config
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\csc.exe
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\vbc.exe
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Shiftim.dll.config
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Shiftim.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Shiftim.pdb
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Antlr3.Runtime.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\EntityFramework.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\EntityFramework.SqlServer.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Json.NET.Web.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.Web.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Newtonsoft.Json.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Helpers.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Mvc.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Optimization.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Razor.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.WebPages.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\WebGrease.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\EntityFramework.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\EntityFramework.SqlServer.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.Web.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.ApplicationInsights.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Newtonsoft.Json.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Mvc.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Helpers.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Optimization.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.Razor.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.WebPages.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\System.Web.WebPages.Razor.xml
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\bin\Antlr3.Runtime.pdb
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\obj\Debug\Shiftim.dll
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\obj\Debug\Shiftim.pdb
+C:\Users\idanlevi\Desktop\15.1\Shiftim\Shiftim\obj\Debug\Shiftim.csprojResolveAssemblyReference.cache

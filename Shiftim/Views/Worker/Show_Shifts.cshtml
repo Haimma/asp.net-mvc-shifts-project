@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Shiftim.Models.Worker>
+
+@{
+    ViewBag.Title = "Shiftim - הצג משמרות";
+}
+
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.10/jquery-ui.min.js"></script>
+<link href="http://ajax.aspnetcdn.com/ajax/jquery.ui/1.8.10/themes/ui-lightness/jquery-ui.css" rel="stylesheet" type="text/css" />
+
+<br /><br /><br />
+<div id="myShifts" class="container-fluid">
+    <div class="row">
+        <h1>
+            בחר תאריך להצגה: <input type="text" id="datepicker" size="30">
+            <a class="btn btn-success btn-lg" onclick="ShowShift();"><i class="glyphicon glyphicon-eye-open"></i>&nbsp; </a>
+        </h1>
+    </div>
+</div>
+<!-- Modal Details-->
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="פרטים">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <h4 class="modal-title">משמרות</h4>
+            </div>
+            <div class="modal-body" id="myModalBodyDiv">
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">סגור</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+        var ShowShift = function () {
+            $.ajax({
+                type: "POST",
+                url: "/Worker/DayShift",
+                data: { show: $("#datepicker").val() },
+                success: function (response) {
+
+                    $("#myModalBodyDiv").html(response);
+                    $("#myModal").modal("show");
+                }
+            })
+        }
+
+    $(document).ready(function(){
+        $('.nav li a ,#homePage .btn').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'')
+                && location.hostname == this.hostname) {
+                var $target = $(this.hash);
+                $target = $target.length && $target
+                    || $('[name=' + this.hash.slice(1) +']');
+                if ($target.length) {
+                    var targetOffset = $target.offset().top;
+                    $('html,body')
+                        .animate({scrollTop: targetOffset}, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+
+
+    function SplitDate(date){
+        var splitDate = {day:date.getDate(), month:date.getMonth() + 1, year:date.getFullYear(),dayofweek:date.getDay()};
+
+        return splitDate;
+    }
+    $(function () {
+        
+        $("#datepicker").on("change", function () {
+            var selected = $(this).val();
+            alert(selected);
+        });
+    });
+    $("#datepicker").datepicker({
+        dateFormat: 'dd/mm/yy',
+        onSelect: function()
+        {
+                }
+    });
+  
+</script>

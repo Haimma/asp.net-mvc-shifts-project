@@ -1,0 +1,104 @@
+﻿body {
+    background-color: #eee !important;
+      background-image: url("http://freedesignfile.com/upload/2015/10/Grunge-textures-vintage-background-vectors-08.png");
+       background-repeat: repeat;
+}
+
+.table-striped > tbody > tr:nth-child(2n) > td, .table-striped > tbody > tr:nth-child(2n) > th {
+   background-color: #d2d2d2;
+}
+
+.btn-defult-outline {
+  background-color: transparent;
+  border-color: black !important;
+  border: 2px solid !important;
+}
+
+/*NAVBAR*/
+
+nav.navbar-findcond {color: #23527c; background: #ffffff; border-color: gray; box-shadow: 0 8px 14px 0 #7d7d7d; border-radius: 0px 0px 12px 12px;}
+nav.navbar-findcond a { color: #244dd3 }
+nav.navbar-findcond ul.navbar-nav a { color: gray; border-style: solid; border-width: 0 0 4px 0; border-color: #ececec; }
+nav.navbar-findcond ul.navbar-nav a:hover,
+nav.navbar-findcond ul.navbar-nav a:visited,
+nav.navbar-findcond ul.navbar-nav a:focus,
+nav.navbar-findcond ul.navbar-nav a:active { background: #fff; }
+nav.navbar-findcond ul.navbar-nav a:hover { border-color: gray; }
+nav.navbar-findcond li.divider { background: #ccc; }
+nav.navbar-findcond button.navbar-toggle { background: #7d7d7d; border-radius: 2px; }
+nav.navbar-findcond button.navbar-toggle:hover { background: #999; }
+nav.navbar-findcond button.navbar-toggle > span.icon-bar { background: #fff; }
+nav.navbar-findcond ul.dropdown-menu { border: 0; background: #fff; border-radius: 5px; margin: 0px 0; box-shadow: 0 0 6px 0 #ccc; }
+nav.navbar-findcond ul.dropdown-menu > li > a { color: #444; }
+nav.navbar-findcond ul.dropdown-menu > li > a:hover { background: gray; color: #fff; }
+nav.navbar-findcond span.badge { background: #23527c; font-weight: bold; font-size: 18px; margin: 0 2px; }
+nav.navbar-findcond span.badge.new { background: black; color: #fff; }
+
+.logoClass{
+font-family: 'Amatica SC', cursive;
+ font-weight: bold !important;
+    font-size: 32px !important;
+}
+.logoClass :hover{
+      color: black !important;
+}
+
+.loginForm{
+  text-align: left !important;
+    padding-top: 5px !important;
+    padding-left: 0px !important;
+    font-weight: bold !important;
+    font-size:medium !important;
+}
+
+.HebFont{
+font-family: 'Amatica SC', cursive;
+ font-weight: bold !important;
+    font-size: 23px !important;
+}
+h{
+font-family: 'Amatica SC', cursive !important;
+ font-weight: bold !important;
+    font-size: 55px !important ;
+}
+h1{
+font-family: 'Amatica SC', cursive !important;
+ font-weight: bold !important;
+    font-size: 45px !important;
+}
+h2{
+font-family: 'Amatica SC', cursive !important;
+ font-weight: bold !important;
+    font-size: 37px !important;
+}
+h3{
+font-family: 'Amatica SC', cursive !important;
+ font-weight: bold !important;
+    font-size: 30px !important;
+}
+h4{
+font-family: 'Amatica SC', cursive !important;
+ font-weight: bold !important;
+    font-size: 25px !important;
+}
+
+
+.navbar-nav{
+cursor:pointer;
+}
+.logoClass{
+    cursor:pointer;
+}
+
+.btn-space {
+    margin-right: 18px;
+}
+.btn-menu :hover{
+      background-color: #6280e0;
+      padding: 8px 12px !important;
+}
+
+.vis{
+    visibility:hidden ;
+    color:red !important;
+}

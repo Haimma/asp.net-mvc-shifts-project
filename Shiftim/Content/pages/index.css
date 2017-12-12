@@ -1,0 +1,21 @@
+﻿
+.headPage{
+    text-align:center !important;
+    color: darkgreen;
+    font-size:50px;
+    font: bold unset;
+    background-color:chartreuse;
+   
+	
+}
+
+.loginPart{
+    text-align: center !important;
+    font: bold 22px;
+    width:450px !important;
+    display: block; 
+    margin-right: auto;  
+    margin-left: auto;
+}
+
+

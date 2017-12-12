@@ -1,0 +1,60 @@
+﻿@model List<Shiftim.Models.MSG>
+
+
+@{
+    ViewBag.Title = "Shiftim - הצגת בקשות";
+}
+<h2>הצגת בקשות</h2>
+
+
+<input id="btnSubmit" class="btn btn-success btn-lg center-block" value="טען הודעות" />
+<br />
+<table class="table table-striped table-hover" id="notes">
+    <tr class="success">
+        <td style="color: green; width: 50px">אימייל </td>
+        <td style="color: green; width: 50px">הודעה </td>
+    </tr>
+</table>
+<div id="status" class="text-primary" style="font: bold 20px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#btnSubmit").bind("click", function () {
+            $.ajax({
+                type: "POST",
+                url: "/Manager/getShowNotes",
+                traditional: true,
+                contentType: 'application/json; charset=utf-8',
+                success: function (data) {
+
+                    $("#status").text("טוען נתונים...");
+                    if (data) {
+                        var len = data.length;
+                        var txt = "";
+                        if (len > 0) {
+                            
+                            for (var i = 0; i < len; i++) {
+
+                                txt += "<tr>" +
+                                    "<td>" + data[i].email + "</td>" +
+                                    "<td>" + data[i].msg + "</td>" +
+                                    "</tr>";
+
+                            }
+                            if (txt != "") {
+                                $("#notes").find("tr:gt(0)").remove();
+                                $("#status").text("");
+                                $("#notes").addClass("table table-striped table-hover");
+                                $("#notes").append(txt);
+                            }
+                        }
+                    }
+                },
+                error: function (data) { alert("error" + data) }
+            });
+        });
+    }
+    );
+
+</script>

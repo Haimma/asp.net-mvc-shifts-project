@@ -1,0 +1,38 @@
+﻿@model Shiftim.Models.Worker
+
+@{
+    ViewBag.Title = "תפריט עובד";
+}
+<!DOCTYPE html>
+<link href="~/Content/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+
+<h1 class="text-center">תפריט עובד</h1>
+<br />
+<br />
+
+    <div class="center-block container-fluid btn-menu ">
+        <button class="btn btn-defult-outline btn-space btn-menu" onclick="location.href='@Url.Action("Add_Shifts","Worker")'">
+            <img src="http://lh3.googleusercontent.com/B2PeiVJ1VysXh49y0cWiotwJ3ZPdzExGeNNZCkiLhz5l1QHZwxtV9qe8_zNvbGsqtSxz5Vm11xcNNjQb3fj0=s0" style="height:300px;width:300px;" />
+            <div class="caption">
+                <h2>הגשת משמרות</h2>
+            </div>
+        </button>
+        <button class="btn btn-defult-outline btn-space btn-menu" onclick="location.href='@Url.Action("Show_Shifts","Worker")'">
+            <img src="http://www.wildcardmedia.co.nz/img/realestate-icon-session.svg" style="height:300px;width:300px;" />
+            <div class="caption">
+                <div class="boldClass">
+                    <h2> צפייה במשמרות</h2>
+                </div>
+            </div>
+        </button>
+        <button class="btn btn-defult-outline btn-space btn-menu" onclick="location.href='@Url.Action("Add_Note","Worker")'">
+            <img src="https://openclipart.org/image/2400px/svg_to_png/197922/mono-mail-send.png" style="height:300px;width:300px;" />
+            <div class="caption">
+                <div class="boldClass">
+                    <h2> שליחת בקשה לאחמ"ש</h2>
+                </div>
+            </div>
+        </button>
+    </div>

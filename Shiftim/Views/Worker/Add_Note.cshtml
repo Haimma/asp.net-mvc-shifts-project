@@ -1,0 +1,23 @@
+﻿@model Shiftim.Models.MSG
+
+@{
+    ViewBag.Title = "Shiftim - הוספת בקשה";
+}
+
+@using (Html.BeginForm())
+{
+
+    @Html.AntiForgeryToken()
+
+    <div class="center-block text-center">
+        <h2>שלח בקשה לאחמ"ש</h2>
+
+        <h1>הקלד/י את בקשתך כאן</h1>
+        @Html.TextAreaFor(model => model.msg, new { style = "width: 800px; height:100px;" })
+        <br />
+        <div>
+            <button type="submit" class="btn btn-success btn-lg" data-dismiss="modal">שלח</button>
+        </div>
+        <h2 class="text-danger">@ViewBag.Msg</h2>
+    </div>
+}
